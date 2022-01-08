@@ -1,0 +1,92 @@
+is_global = true
+build_property.TargetFramework = net6.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = AppScubaDiving
+build_property.RootNamespace = AppScubaDiving
+build_property.ProjectDir = C:\Users\Cloud\source\repos\AppScubaDiving\AppScubaDiving\
+build_property.RazorLangVersion = 6.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = C:\Users\Cloud\source\repos\AppScubaDiving\AppScubaDiving
+build_property._RazorSourceGeneratorDebug = 
+
+[C:/Users/Cloud/source/repos/AppScubaDiving/AppScubaDiving/Areas/Identity/Pages/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Cloud/source/repos/AppScubaDiving/AppScubaDiving/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Cloud/source/repos/AppScubaDiving/AppScubaDiving/Views/Home/Privacy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Cloud/source/repos/AppScubaDiving/AppScubaDiving/Views/MaterielPlongees/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTWF0ZXJpZWxQbG9uZ2Vlc1xDcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Cloud/source/repos/AppScubaDiving/AppScubaDiving/Views/MaterielPlongees/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTWF0ZXJpZWxQbG9uZ2Vlc1xEZWxldGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Cloud/source/repos/AppScubaDiving/AppScubaDiving/Views/MaterielPlongees/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTWF0ZXJpZWxQbG9uZ2Vlc1xEZXRhaWxzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Cloud/source/repos/AppScubaDiving/AppScubaDiving/Views/MaterielPlongees/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTWF0ZXJpZWxQbG9uZ2Vlc1xFZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Cloud/source/repos/AppScubaDiving/AppScubaDiving/Views/MaterielPlongees/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTWF0ZXJpZWxQbG9uZ2Vlc1xJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Cloud/source/repos/AppScubaDiving/AppScubaDiving/Views/Plongeurs/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGxvbmdldXJzXENyZWF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Cloud/source/repos/AppScubaDiving/AppScubaDiving/Views/Plongeurs/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGxvbmdldXJzXERlbGV0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Cloud/source/repos/AppScubaDiving/AppScubaDiving/Views/Plongeurs/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGxvbmdldXJzXERldGFpbHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Cloud/source/repos/AppScubaDiving/AppScubaDiving/Views/Plongeurs/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGxvbmdldXJzXEVkaXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Cloud/source/repos/AppScubaDiving/AppScubaDiving/Views/Plongeurs/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGxvbmdldXJzXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Cloud/source/repos/AppScubaDiving/AppScubaDiving/Views/Shared/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Cloud/source/repos/AppScubaDiving/AppScubaDiving/Views/Shared/_LoginPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9Mb2dpblBhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Cloud/source/repos/AppScubaDiving/AppScubaDiving/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Cloud/source/repos/AppScubaDiving/AppScubaDiving/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Cloud/source/repos/AppScubaDiving/AppScubaDiving/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Cloud/source/repos/AppScubaDiving/AppScubaDiving/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-g2p1wqf15g

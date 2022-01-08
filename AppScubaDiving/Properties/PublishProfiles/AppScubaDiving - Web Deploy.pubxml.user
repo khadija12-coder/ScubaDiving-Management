@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+This file is used by the publish/package process of your Web project. You can customize the behavior of this process
+by editing this MSBuild file. In order to learn more about this please visit https://go.microsoft.com/fwlink/?LinkID=208121. 
+-->
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <TimeStampOfAssociatedLegacyPublishXmlFile />
+    <EncryptedPassword>AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAAJhuGPd2XD0ym92y3D+UWLQAAAAACAAAAAAAQZgAAAAEAACAAAAC+vBfPTsl8UztvLocFNUjOyuzYfzFI0BCjzLo3vz2/RAAAAAAOgAAAAAIAACAAAAAYZ49UaR9vqUIp3fGYSytYE0+6AUDpC6QV5o+9DQjNUoAAAAAPrRf1w2o/DyisRarKyXeNQ6aCpql3LACqiWQqzSphh78Wum/J10W2kCLLYXbeHbLmrT5dkI8PhrygT/w9iiZP3wea9AY00dlfTfWxp20dfdqmh1mqk/3sQpuzmnzkJfN8rvi4G4/BuIRtkCApq2pi1aFd6+YwNa3OtVvviAurPEAAAABhbHNFgAE4fP9vb8jPGvf9ZB0woZ//DNtVJNf2gZOezCxYcTuU2SVu0vFxy7s/KPxdahM0jRkO+RBUe8+4MUPu</EncryptedPassword>
+    <History>True|2022-01-07T20:40:38.1966534Z;</History>
+  </PropertyGroup>
+  <ItemGroup>
+    <DestinationConnectionStrings Include="DefaultConnection">
+      <Value>Data Source=tcp:appscubadivingdb.database.windows.net,1433%3bInitial Catalog=AppScubaDiving_db%3bUser Id=Youssef%40appscubadivingdb%3bPassword=Avg59911</Value>
+    </DestinationConnectionStrings>
+  </ItemGroup>
+  <ItemGroup>
+    <EFMigrations Include="AppScubaDiving.Data.ApplicationDbContext">
+      <Value>Data Source=tcp:appscubadivingdb.database.windows.net,1433%3bInitial Catalog=AppScubaDiving_db%3bUser Id=Youssef%40appscubadivingdb%3bPassword=Avg59911</Value>
+    </EFMigrations>
+  </ItemGroup>
+</Project>
